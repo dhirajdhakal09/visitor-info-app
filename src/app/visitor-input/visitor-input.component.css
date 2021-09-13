@@ -1,0 +1,27 @@
+div.form
+{
+    display: block;
+    text-align: center;
+}
+form
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+mat-form-field{
+    width: 100%;;
+}
+mat-card {    
+    max-width: 80%;    
+    margin: 2em auto;    
+    text-align: center;    
+}    
+    
+mat-toolbar-row {    
+    justify-content: space-between;    
+}
+.ng-invalid:not(form)  {
+    /*border-left: 5px solid #a94442; /* red */
+  }

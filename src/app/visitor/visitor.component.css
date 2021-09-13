@@ -1,0 +1,29 @@
+table{
+    width: 100%;
+}
+
+.body{
+
+    background-color: red;
+    width: 100%;
+    height: 100%;
+}
+
+.bodyText{
+    text-align: center;
+    color:white;
+}
+
+.gateOpen{
+    
+    background-color: green;
+    width: 100%;
+    height: 100%;
+}
+
+.gateClosed{
+    
+    background-color: red;
+    width: 100%;
+    height: 100%;
+}
